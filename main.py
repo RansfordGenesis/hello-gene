@@ -4,4 +4,4 @@ app = FastAPI()
 
 @app.get("/")
 def hello_gene():
-    return {"message": "Hello Gene"}
+    return {"message": "Hello Genesis"}
