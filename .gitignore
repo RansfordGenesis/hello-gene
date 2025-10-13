@@ -1,0 +1,15 @@
+venv/
+__pycache__/
+.qodo/
+
+terraform.tfstate
+terraform.tfstate.backup
+.terraform/
+*.tfvars
+
+# Local .env files
+.env
+.env.local
+
+# IDE files
+.vscode/
